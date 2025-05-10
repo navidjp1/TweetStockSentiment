@@ -1,6 +1,12 @@
 # Setup
 
-## Creating Python Virtual Environment
+## Clone Repository
+
+```bash
+git clone https://github.com/navidjp1/TweetStockSentiment.git
+```
+
+## Create Python Virtual Environment
 
 ```bash
 python -m venv venv
